@@ -1,0 +1,10 @@
+{
+  "qa": {
+    "base_url": "https://app.workflowpro.com",
+    "api_url": "https://app.workflowpro.com/api/v1"
+  },
+  "staging": {
+    "base_url": "https://staging.workflowpro.com",
+    "api_url": "https://staging.workflowpro.com/api/v1"
+  }
+}
